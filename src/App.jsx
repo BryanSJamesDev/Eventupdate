@@ -206,7 +206,7 @@ export default function App() {
           {/* Logo */}
           <div className="flex-shrink-0">
             <span className="text-lg font-semibold tracking-tight text-white">
-              event<span className="text-white/40">layer</span>
+              Vicinity
             </span>
           </div>
 
